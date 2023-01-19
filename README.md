@@ -17,6 +17,10 @@
 [![TheGraph]](https://thegraph.com/en/)
 [![IPFS]](https://ipfs.tech/)
 
+## My stats
+![Nikos GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=npa528&show_icons=true&theme=highcontrast&hide_border=true&title_color=fbaf00&icon_color=fbaf00)
+
+
 [Spring Boot]: https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot
 [linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [email]: https://img.shields.io/badge/0xpolarzero@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white

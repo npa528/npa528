@@ -18,13 +18,15 @@
 [![IPFS]](https://ipfs.tech/)
 
 ## My stats
-![Nikos GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=npa528&show_icons=true&theme=highcontrast&hide_border=true&title_color=fbaf00&icon_color=fbaf00)
+![Nikos GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=npa528&show_icons=true&theme=highcontrast&hide_border=true&title_color=76a5af&icon_color=76a5af)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=npa528&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=fbaf00&currStreakLabel=76a5af&sideNums=76a5af&ring=76a5af)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=npa528&layout=compact&theme=highcontrast&hide_border=true&title_color=76a5af&hide=html,css,shell,dockerfile)](https://github.com/npa528/github-readme-stats)
 
 [Spring Boot]: https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot
 [linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[email]: https://img.shields.io/badge/0xpolarzero@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[ethereum]: https://img.shields.io/badge/polarzero.eth-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white
+[email]: https://img.shields.io/badge/0xnpapadakis@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [solidity]: https://custom-icon-badges.demolab.com/badge/Solidity-3C3C3D?style=for-the-badge&logo=solidity&logoColor=white
 [javascript]: https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black
 [nodejs]: https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white

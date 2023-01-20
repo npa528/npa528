@@ -1,10 +1,8 @@
 ### Hi there 👋
 My name is Nikos Papadakis and I am currently learning Solidity/Smart Contracts development on Ethereum. My goal is to become a Full-Stack Web3 developer.
-I am working with JavaScript, React.js, Next.js, Hardhat, Moralis, TheGraph, IPFS on personal projects and bootcamps. I am also familiar with smart contracts test-driven development with Mocha and Chai frameworks.
+I am working with JavaScript, React.js, Next.js, Hardhat, Moralis, TheGraph, IPFS on personal projects and bootcamps. I am also familiar with smart contracts test-driven development with Mocha and Chai frameworks. In the past I had experience in backend Web Development using Java EE.
 
-I am up for any opportunity that will allow me to grow my skills, collaborate, and help with anything I have learned so far!
-
-In the past I had experience in backend Web Development using Java EE.
+I am looking for any opportunity to grow my skills, collaborate, and help with anything I have learned so far!
 
 💬 Feel free to contact me (check below) to ask anything.
 

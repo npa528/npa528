@@ -1,4 +1,12 @@
 ### Hi there 👋
+My name is Nikos Papadakis and I am currently learning Solidity/Smart Contracts development on Ethereum. My goal is to become a Full-Stack Web3 developer.
+I am working with JavaScript, React.js, Next.js, Hardhat, Moralis, TheGraph, IPFS on personal projects and bootcamps. I am also familiar with smart contracts test-driven development with Mocha and Chai frameworks.
+
+I am up for any opportunity that will allow me to grow my skills, collaborate, and help with anything I have learned so far!
+
+In the past I had experience in backend Web Development using Java EE.
+
+💬 Feel free to contact me (check below) to ask anything.
 
 
 ## My skills
@@ -17,6 +25,7 @@
 [![TheGraph]](https://thegraph.com/en/)
 [![IPFS]](https://ipfs.tech/)
 
+
 ## My stats
 ![Nikos GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=npa528&show_icons=true&theme=highcontrast&hide_border=true&title_color=76a5af&icon_color=76a5af)
 
@@ -24,9 +33,17 @@
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=npa528&layout=compact&theme=highcontrast&hide_border=true&title_color=76a5af&hide=html,css,shell,dockerfile)](https://github.com/npa528/github-readme-stats)
 
+## Contact me
+[![Website][website]](https://npa528.github.io/cv/)
+[![LinkedIn][linkedin]](https://www.linkedin.com/in/papadakisnik/)
+[![npapadakis@gmail.com][email]](mailto:npapadakis@gmail.com)
+[![Twitter][twitter]](https://twitter.com/nikos_pap83)
+
+
+
 [Spring Boot]: https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot
 [linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[email]: https://img.shields.io/badge/0xnpapadakis@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[email]: https://img.shields.io/badge/npapadakis@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [solidity]: https://custom-icon-badges.demolab.com/badge/Solidity-3C3C3D?style=for-the-badge&logo=solidity&logoColor=white
 [javascript]: https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black
 [nodejs]: https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white
@@ -43,6 +60,7 @@
 [thegraph]: https://custom-icon-badges.demolab.com/badge/TheGraph-0C0A1C?style=for-the-badge&logo=thegraph&logoColor=white
 
 [website]: https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
+[linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [twitter]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 
 
